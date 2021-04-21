@@ -8,7 +8,7 @@ val chubyDosQueEsSier = "Que no me gustan las sandias ya les dije!"
 fun main() {
 
     val kotlinersNoSe: String = "Sier, Chuby y Gorro"
-    val age:
+    val age: Int = 2
     val letter: Char = 'G'
     val decition: Boolean = true
     val _chubyAge: Float = 60.5f
